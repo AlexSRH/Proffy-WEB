@@ -26,7 +26,6 @@ const theme = {
   linesInWhite: '#E6E6F0',
   disableButton: '#DCDCE5',
   input: '#FAFAFC',
-  box: '#fff',
 
   red: '#E33D3D',
   white: '#fff'

@@ -47,6 +47,7 @@ export default class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&family=Poppins&display=swap"
             rel="stylesheet"
           />
+          <meta name="theme-color" content="#8257E5" />
 
           <link rel="icon" href="favicon.ico" />
         </Head>

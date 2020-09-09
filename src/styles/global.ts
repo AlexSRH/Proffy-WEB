@@ -25,7 +25,7 @@ export default createGlobalStyle`
     color: ${props => props.theme.text.standard}
   }
 
-  @media(min-width: 700px) {
+  @media(min-width: 1100px) {
     :root {
       font-size: 62.5%;
     }
